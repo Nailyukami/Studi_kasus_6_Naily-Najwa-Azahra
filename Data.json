@@ -1,0 +1,22 @@
+[
+    {
+        "nama": "Pop Mie",
+        "stok": 25,
+        "harga": 68000
+    },
+    {
+        "nama": "Mie Sedap",
+        "stok": 40,
+        "harga": 38000
+    },
+    {
+        "nama": "Lee Mineral",
+        "stok": 30,
+        "harga": 17000
+    },
+    {
+        "nama": "Kinder Joy",
+        "stok": 38,
+        "harga": 8000
+    }
+]
